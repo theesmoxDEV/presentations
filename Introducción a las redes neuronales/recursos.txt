@@ -1,0 +1,5 @@
+https://www.significados.com/neurona/
+https://es.wikipedia.org/wiki/Red_neuronal_artificial
+https://www.aprendemachinelearning.com/breve-historia-de-las-redes-neuronales-artificiales/
+https://en.wikipedia.org/wiki/Artificial_neural_network
+https://stackoverflow.com/questions/2480650/what-is-the-role-of-the-bias-in-neural-networks
